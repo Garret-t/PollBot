@@ -14,6 +14,6 @@ The |time|2 part is optional, it simply just sets the timer for it to end at 2 m
 
 Also make sure to update token.json with your token for your bot if you plan on replicating this.
 
-![alt text](https://imgur.com/e9PS0mj)
+![alt text](https://i.imgur.com/e9PS0mj.png)
 
-![alt text](https://imgur.com/hU4hI06)
+![alt text](https://i.imgur.com/hU4hI06.png)
