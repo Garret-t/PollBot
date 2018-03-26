@@ -1,0 +1,9 @@
+{
+    "name": "PollBot",
+    "version": "1.0.0",
+    "description": "Voting bot ",
+    "main": "voteBot.js",
+    "dependencies": {
+        "discord.js": "^11.3.2"
+    }
+}
